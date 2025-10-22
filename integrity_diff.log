@@ -1,0 +1,4 @@
+2c2
+< e65ec5744c032e612e57d2a2570cdad0c1d5b71a127bb31af8801259d78f51e4  /home/adarsh/linux-projects/linux-file-integrity-checker/test_files/file2.txt
+---
+> 7c1dca19c9d531cf9fc257ba348087141dd685683c2fead989c33a57ac7c3d92  /home/adarsh/linux-projects/linux-file-integrity-checker/test_files/file2.txt
